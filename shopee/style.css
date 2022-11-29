@@ -1,0 +1,93 @@
+body{
+    padding-left: 200;
+    padding-right: 300;
+}
+
+header
+{
+    background-color: rgba(252, 60, 2, 0.918);
+    
+}
+
+.headings
+{
+    padding-left: 500px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding-bottom: 10px;
+}
+
+form
+{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+
+
+}
+.logo
+{
+    margin-top: -20px;
+    height: 80px;
+    padding-right: 40px;
+}
+
+input
+{
+    width: 700px;
+    height: 42px;
+    border: orange;
+    color: whitesmoke;
+    padding-top: 50px;
+    
+}
+
+.bottomText
+{
+    color: white;
+    font-size: 12px;
+    gap: 2rem;
+    padding-left: 800px;
+    padding-bottom: 5px;
+}
+
+.body
+{
+    padding-left: 400px;
+    padding-bottom: 20px;
+}
+
+.categ
+{
+    padding-left: 393px;
+    padding-bottom: 20px;
+}
+
+.categ2
+{
+    padding-left: 393px;
+    padding-bottom: 20px;
+}
+
+.categ3
+{
+    padding-left: 393px;
+    padding-bottom: 500px;
+}
+.privacy
+{
+    padding-left: 393px;
+}
+.privacy2
+{
+    padding-left: 393px;
+}
+.privacy3
+{
+    padding-left: 393px;
+}
+.footer
+{
+    padding-top: 50px;
+}
